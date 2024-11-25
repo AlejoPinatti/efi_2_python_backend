@@ -1,7 +1,7 @@
 Clonar y configurar el proyecto:
 
 ### Clona el repositorio:
-git clone https://github.com/AlejoPinatti/efi_2_Python.git
+git clone https://github.com/AlejoPinatti/efi_2_python_backend.git
 ### Crea un entorno virtual:
 python3 -m venv env
 ### Activa el entorno: 
