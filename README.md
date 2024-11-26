@@ -30,8 +30,8 @@ Inicia sesión del usuario verificando las credenciales proporcionadas. Si las c
 **Ejemplo de cuerpo de solicitud:**
 ```html
 {
-    "username": "usuario555",
-    "password": "contraseña555"
+    "username": "usuario1",
+    "password": "contraseña1"
 }
 ```
 ### Registro de usuario
