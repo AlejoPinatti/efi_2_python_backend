@@ -62,12 +62,12 @@ Lista todos los usuarios registrados. Solo accesible para administradores.
 [
     {
         "id": 1,
-        "username": "usuario555",
+        "username": "usuario1",
         "is_admin": true
     },
     {
         "id": 2,
-        "username": "usuario444",
+        "username": "usuario2",
         "is_admin": false
     }
     // Otros usuarios
@@ -114,7 +114,7 @@ Lista todos los accesorios disponibles.
     },
     {
         "id": 2,
-        "tipo": "Audífonos",
+        "tipo": "Auriculares",
         "modelo_id": 2
     }
     // Otros objetos de accesorio
@@ -476,7 +476,7 @@ Edita un equipo existente. Solo accesible para usuarios administradores.
 ```html
 [
 {
-    "nombre": "Equipo Gamma Pro",
+    "nombre": "Equipo Gamma Alta",
     "precio": 2200.00,
     "categoria_id": 3,
     "marca_id": 2,
