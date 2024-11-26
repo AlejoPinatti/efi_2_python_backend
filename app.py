@@ -37,7 +37,7 @@ def create_admin(username, password):
 
 
 # Para crear un nuevo admin se debe escribir en terminal:
-# flask create-admin "usuario" "contraseña" (comillas inclusive)
+# flask create-admin "admin" "admin"
 
 
 @app.route("/")

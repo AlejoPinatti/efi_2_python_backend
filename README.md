@@ -52,7 +52,7 @@ Registra un nuevo usuario con un nombre de usuario y contraseña hasheada.
 ### Gestion de Usuarios
 
 - **Método:** POST  
-- **Endpoint:** `/usuario`
+- **Endpoint:** `/users`
 
 **Descripción:**  
 Lista todos los usuarios registrados. Solo accesible para administradores.
