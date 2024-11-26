@@ -34,21 +34,8 @@ Inicia sesión del usuario verificando las credenciales proporcionadas. Si las c
     "password": "contraseña1"
 }
 ```
-### Registro de usuario
 
-- **Método:** POST  
-- **Endpoint:** `/register`
 
-**Descripción:**  
-Registra un nuevo usuario con un nombre de usuario y contraseña hasheada.
-
-**Ejemplo de cuerpo de solicitud:**
-```html
-{
-    "username": "nuevo_usuario",
-    "password": "contraseña_segura"
-}
-```
 ### Gestion de Usuarios
 
 - **Método:** POST  
